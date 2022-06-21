@@ -79,17 +79,9 @@ Information Security and Computer Science enthusiast
 ![](https://img.icons8.com/fluency/64/prometheus-app.png)
 ![](./images/k6s.png)
 ![](./images/thanos.png)
-![](./images/ghidra.png)
+![](.[/images/ghidra.png](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png?20201123185605))
 ![](./images/immunity_debugger.png)
 
 <br/>
 
-<!-- ## Certifications
-![](https://img.icons8.com/fluency/64/android-studio--v2.png)
-![](https://images.credly.com/size/100x100/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png) 
-![](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-![](https://images.credly.com/size/100x100/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png)
-![](https://images.credly.com/size/100x100/images/3f2e7f4b-a2f7-4f21-a626-a2565db92d91/Credly_CHFI_Badge_Upload.png) 
-<br/>
--->
 
