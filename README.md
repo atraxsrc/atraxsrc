@@ -79,7 +79,7 @@ Information Security and Computer Science enthusiast
 ![](https://img.icons8.com/fluency/64/prometheus-app.png)
 ![](./images/k6s.png)
 ![](./images/thanos.png)
-![](.[/images/ghidra.png](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png?20201123185605))
+![]([.[/images/ghidra.png](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png?20201123185605)](https://github.com/ernestang98/ernestang98/blob/master/images/ghidra.png))
 ![](./images/immunity_debugger.png)
 
 <br/>
