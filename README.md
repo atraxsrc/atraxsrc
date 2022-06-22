@@ -36,7 +36,7 @@ Information Security and Computer Science enthusiast
 ![](https://img.icons8.com/color/64/powershell.png)
 ![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 ![](https://github.com/atraxsrc/bots/blob/main/sublime_text_alt_macos_bigsur_icon_189684.png)
-![](https://github.com/atraxsrc/bots/blob/main/terminator_22482.png)
+![](https://github.com/atraxsrc/bots/blob/main/kindpngmetasploit.png)
 
 <br/>
 
