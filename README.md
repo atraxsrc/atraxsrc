@@ -36,6 +36,7 @@ Information Security and Computer Science enthusiast
 ![](https://img.icons8.com/color/64/powershell.png)
 ![](https://github.com/atraxsrc/bots/blob/main/sublime_text_alt_macos_bigsur_icon_189684.png)
 ![](https://github.com/atraxsrc/bots/blob/main/kali-metasploit-framework.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-azure-70.png)
 ![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 
 <br/>
