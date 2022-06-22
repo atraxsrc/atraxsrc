@@ -2,7 +2,7 @@
 
 Information Security and Computer Science enthusiast
 
-&nbsp;&nbsp; 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **Purple Team Ops**, and **DevSecOps**
+&nbsp;&nbsp; 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, and **DevSecOps**
 
 
 <br/>
@@ -34,9 +34,9 @@ Information Security and Computer Science enthusiast
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/docker_plain_logo_icon_146554.png)
 ![](https://img.icons8.com/plasticine/64/bash.png)
 ![](https://img.icons8.com/color/64/powershell.png)
-![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 ![](https://github.com/atraxsrc/bots/blob/main/sublime_text_alt_macos_bigsur_icon_189684.png)
-![](https://github.com/atraxsrc/bots/blob/main/kindpngmetasploit.png)
+![](https://github.com/atraxsrc/bots/blob/main/kali-metasploit-framework.png)
+![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 
 <br/>
 
