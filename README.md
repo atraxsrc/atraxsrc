@@ -2,7 +2,7 @@
 
 Information Security and Computer Science enthusiast
 
-&nbsp;&nbsp; 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **Cyber Defence**, and **DevSecOps**
+&nbsp;&nbsp; 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **Purple Team Ops**, and **DevSecOps**
 
 
 <br/>
@@ -28,7 +28,7 @@ Information Security and Computer Science enthusiast
 ## ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 
 ![](https://img.icons8.com/fluency/64/node-js.png)
-![](https://cdn.icon-icons.com/icons2/2699/PNG/64/nestjs_logo_icon_168087.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-100.png)
 ![](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-64.png)
 ![](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png)
 ![](https://img.icons8.com/color/64/redux.png)
