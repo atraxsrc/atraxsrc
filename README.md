@@ -32,18 +32,12 @@ Information Security and Computer Science enthusiast
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-github-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/burpsuite_113238.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-old-vmware-logo-80.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-arch-linux-composed-of-nonfree-and-open-source-software-80.png)
 ![](https://img.icons8.com/color/64/android-studio--v3.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/ionic_original_logo_icon_146462.png)
-![](https://img.icons8.com/color/64/tensorflow.png)
-![](https://cdn.icon-icons.com/icons2/2699/PNG/64/pytorch_logo_icon_170820.png)
-![](https://cdn.icon-icons.com/icons2/2699/PNG/64/opencv_logo_icon_170887.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/docker_plain_logo_icon_146554.png)
 ![](https://img.icons8.com/plasticine/64/bash.png)
 ![](https://img.icons8.com/color/64/powershell.png)
-![](https://img.icons8.com/fluency/64/unity.png)
-![](https://cdn.icon-icons.com/icons2/2699/PNG/64/sqlite_logo_icon_169724.png)
-![](https://img.icons8.com/color/64/mysql-logo.png)
+
 
 
 <br/>
