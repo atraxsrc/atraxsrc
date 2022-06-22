@@ -55,7 +55,7 @@ Information Security and Computer Science enthusiast
 ![](https://img.icons8.com/color/64/mysql-logo.png)
 ![](https://img.icons8.com/color/64/mongodb.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/redis_original_logo_icon_146368.png)
-![](https://img.icons8.com/color/64/firebase.png)
+
 
 
 <br/>
