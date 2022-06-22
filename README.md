@@ -30,7 +30,7 @@ Information Security and Computer Science enthusiast
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-github-80.png)
-![](https://github.com/atraxsrc/bots/blob/main/burpsuite_113238.png)
+![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-old-vmware-logo-80.png)
 ![](https://img.icons8.com/color/64/android-studio--v3.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/ionic_original_logo_icon_146462.png)
