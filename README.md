@@ -27,35 +27,23 @@ Information Security and Computer Science enthusiast
 
 ## ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 
-![](https://img.icons8.com/fluency/64/node-js.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-100.png)
-![](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-64.png)
-![](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png)
-![](https://img.icons8.com/color/64/redux.png)
-![](https://cdn.icon-icons.com/icons2/2148/PNG/64/nextjs_icon_132160.png)
-![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-64.png)
-![](https://img.icons8.com/color/64/vue-js.png)
-![](https://cdn.icon-icons.com/icons2/2699/PNG/64/nuxtjs_logo_icon_170906.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-github-80.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-hydra-70.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-old-vmware-logo-80.png)
+![](https://github.com/atraxsrc/bots/blob/main/icons8-arch-linux-composed-of-nonfree-and-open-source-software-80.png)
 ![](https://img.icons8.com/color/64/android-studio--v3.png)
-![](https://img.icons8.com/color/64/flutter.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/ionic_original_logo_icon_146462.png)
 ![](https://img.icons8.com/color/64/tensorflow.png)
 ![](https://cdn.icon-icons.com/icons2/2699/PNG/64/pytorch_logo_icon_170820.png)
 ![](https://cdn.icon-icons.com/icons2/2699/PNG/64/opencv_logo_icon_170887.png)
-![](https://cdn1.iconfinder.com/data/icons/logotypes/32/github-64.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/docker_plain_logo_icon_146554.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-48.png)
-![](https://cdn.icon-icons.com/icons2/1159/PNG/64/linux_81610.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-100.png)
-![](https://img.icons8.com/color/64/kali-linux.png)
 ![](https://img.icons8.com/plasticine/64/bash.png)
 ![](https://img.icons8.com/color/64/powershell.png)
 ![](https://img.icons8.com/fluency/64/unity.png)
 ![](https://cdn.icon-icons.com/icons2/2699/PNG/64/sqlite_logo_icon_169724.png)
 ![](https://img.icons8.com/color/64/mysql-logo.png)
-![](https://img.icons8.com/color/64/mongodb.png)
-![](https://cdn.icon-icons.com/icons2/2415/PNG/64/redis_original_logo_icon_146368.png)
-
 
 
 <br/>
