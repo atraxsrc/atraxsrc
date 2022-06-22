@@ -18,7 +18,6 @@ Information Security and Computer Science enthusiast
 
 ![](https://img.icons8.com/color/64/python--v1.png) 
 ![](https://img.icons8.com/color/64/c-programming.png)
-![](https://img.icons8.com/color/64/java-coffee-cup-logo--v1.png) 
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-64.png)
