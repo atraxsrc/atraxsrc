@@ -1,5 +1,4 @@
-## ![image](https://user-images.githubusercontent.com/92285717/175205807-f408ee8b-4b9a-4d8e-94bf-6f43f4f73a4f.png)
-# Greetings
+[<img src="https://github.com/atraxsrc/bots/blob/main/k-4.gif" title="👋 Hi there! I'm Atrax"/>]
 
 Information Security and Computer Science enthusiast
 
