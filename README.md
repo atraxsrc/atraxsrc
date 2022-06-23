@@ -1,6 +1,5 @@
-<img src="https://github.com/atraxsrc/bots/blob/main/k12.gif" 
-     
-"👋 Hi there! I'm Atrax"/>
+[<img src="https://github.com/atraxsrc/bots/blob/main/k12.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 
 Information Security and Computer Science enthusiast
 
