@@ -1,5 +1,5 @@
 
-#                                                                 👋Greetings👋, I am Atrax
+# 👋Greetings👋, I am Atrax
 
 
 ## 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **DevSecOps**, and **Computer Science**
