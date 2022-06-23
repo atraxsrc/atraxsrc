@@ -1,4 +1,6 @@
-<img src="https://github.com/atraxsrc/bots/blob/main/k-4.gif" title="👋 Hi there! I'm Atrax"/>
+<img src="https://github.com/atraxsrc/bots/blob/main/k12.gif" 
+     
+"👋 Hi there! I'm Atrax"/>
 
 Information Security and Computer Science enthusiast
 
