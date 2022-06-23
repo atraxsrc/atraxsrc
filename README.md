@@ -1,8 +1,9 @@
 
-# 👋Greetings👋, I am Atrax
+# 👋Greetings👋, 
+## I am Atrax
+---
 
-
-## 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **DevSecOps**, and **Computer Science**
+### 🌱 &nbsp; I'm passionate in the areas of **Cybersecurity**, **DevSecOps**, and **Computer Science**
 
 
 <br/>
@@ -14,7 +15,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestang98&hide=contribs&show_icons=true) -->
 
-## 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
+### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 ![](https://img.icons8.com/color/64/python--v1.png) 
 ![](https://img.icons8.com/color/64/c-programming.png)
@@ -24,7 +25,7 @@
 
 <br/>
 
-## ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
+### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
