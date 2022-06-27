@@ -43,5 +43,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrxsrc&layout=compact)](https://github.com/atraxsrc/github-readme-stats)
