@@ -41,6 +41,6 @@
 
 <br/>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8;&nbsp;&nbsp;&nbsp; GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&theme=tokyonight)
