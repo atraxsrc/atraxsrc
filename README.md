@@ -38,6 +38,7 @@
 ![](https://github.com/atraxsrc/bots/blob/main/kali-metasploit-framework.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-azure-70.png)
 ![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
+![](https://github.com/atraxsrc/bots/blob/main/Ghidra_Logo.png)
 
 <br/>
 
