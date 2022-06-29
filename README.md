@@ -43,7 +43,7 @@
 
 <br/>
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/atraxsrc?tab=followers"><img align="right" src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/atraxsrc">  <img align="right" src="https://komarev.com/ghpvc/?username=atraxsrc"></a>
+## 📊 &nbsp;&nbsp;&nbsp; Github Stats <img align="right" src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/atraxsrc?tab=followers"><img align="right" src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/atraxsrc">  <img align="right" src="https://komarev.com/ghpvc/?username=atraxsrc"></a>
 
 <p>
   <img align="right"
