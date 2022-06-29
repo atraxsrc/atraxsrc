@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+<h1 align="center">Hi <img src="https://c.tenor.com/_lBbIXqj4QIAAAAi/spider.gif"
     width="30px">, I'm Atrax</h1>
 <h3 align="center">Not Hacker And Not Programer</h3>
 
