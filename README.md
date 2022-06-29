@@ -28,6 +28,7 @@
 
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
+![](https://github.com/atraxsrc/bots/blob/main/arch.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-github-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-old-vmware-logo-80.png)
 ![](https://img.icons8.com/color/64/android-studio--v3.png)
