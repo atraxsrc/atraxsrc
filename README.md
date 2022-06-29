@@ -41,9 +41,22 @@
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-azure-70.png)
 ![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 
-
 <br/>
 
-## &#x1f4c8;&nbsp;&nbsp;&nbsp; GitHub Stats
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/atraxsrc?tab=followers"><img align="right" src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/atraxsrc">  <img align="right" src="https://komarev.com/ghpvc/?username=atraxsrc"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&theme=tokyonight)
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=react" />
+</p>
+
+<a href="https://github.com/atraxsrc"><img alt="atraxsrc's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atraxsrc&theme=black-ice"
+    alt="atraxsrc" /></p>
+
+<br />
+
+<a href="https://github.com/atraxsrc"><img alt="atraxsrc's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=atraxsrc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
