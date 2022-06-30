@@ -54,7 +54,7 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=react&bg_color=151515" />
 </p>
 
 <a href="https://github.com/atraxsrc"><img alt="atraxsrc's Github Stats"
