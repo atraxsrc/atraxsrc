@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi <img src="https://c.tenor.com/_lBbIXqj4QIAAAAi/spider.gif"
     width="30px">, I'm Atrax</h1>
-<h3 align="center">Not Hacker And Not Programer</h3>
+<h3 align="center">Not an Hacker</h3>
 
 
 ### 🌱 &nbsp;&nbsp;&nbsp; I'm passionate in the areas of **Cybersecurity**, **DevSecOps**, and **Computer Science**
