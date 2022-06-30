@@ -54,7 +54,7 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
 </p>
 
 <a href="https://github.com/atraxsrc"><img alt="atraxsrc's Github Stats"
