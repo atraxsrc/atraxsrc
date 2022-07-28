@@ -52,7 +52,10 @@
 
 ### 📊 &nbsp;&nbsp;&nbsp; Github Stats <img align="right" src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/atraxsrc?tab=followers"><img align="right" src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/atraxsrc">  <img align="right" src="https://komarev.com/ghpvc/?username=atraxsrc"></a>
 
-
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=react&bg_color=151515" />
+</p>
 
 <a href="https://github.com/atraxsrc"><img alt="atraxsrc's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
