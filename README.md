@@ -27,8 +27,7 @@
 ![](https://img.icons8.com/color/64/c-programming.png)
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
-![](https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-64.png)
-![](https://user-images.githubusercontent.com/92285717/187053670-f0d7cec1-5c2e-454a-af5b-54f640609ccc.png)
+![](https://user-images.githubusercontent.com/92285717/187053709-1e9b2a52-a323-48fb-acf6-52c70edb771c.png)
 
 
 <br/>
