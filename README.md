@@ -24,7 +24,7 @@
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
 ![](https://img.icons8.com/color/64/python--v1.png) 
-![](https://user-images.githubusercontent.com/92285717/187053840-2490112c-b710-43ea-9616-ce5f502a8f4b.png)
+![](https://user-images.githubusercontent.com/92285717/187098032-ca440a44-eda7-4f57-976d-de6345c7705d.png)
 ![](https://img.icons8.com/color/64/c-programming.png)
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
