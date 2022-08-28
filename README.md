@@ -27,7 +27,7 @@
 ![](https://img.icons8.com/color/64/c-programming.png)
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
-![](https://user-images.githubusercontent.com/92285717/187053709-1e9b2a52-a323-48fb-acf6-52c70edb771c.png)
+![](https://user-images.githubusercontent.com/92285717/187053840-2490112c-b710-43ea-9616-ce5f502a8f4b.png)
 
 
 
