@@ -28,7 +28,7 @@
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
 ![](https://user-images.githubusercontent.com/92285717/187053709-1e9b2a52-a323-48fb-acf6-52c70edb771c.png)
-![](https://user-images.githubusercontent.com/92285717/187053791-a59ba0f4-f56c-47d7-b4cf-800674300b2d.png)
+
 
 
 
