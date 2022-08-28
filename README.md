@@ -28,7 +28,8 @@
 ![](https://img.icons8.com/color/64/html-5--v1.png)
 ![](https://img.icons8.com/color/64/javascript--v1.png)
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-64.png)
-![](https://img.icons8.com/nolan/2x/rust-game.png)
+![](https://user-images.githubusercontent.com/92285717/187053670-f0d7cec1-5c2e-454a-af5b-54f640609ccc.png)
+
 
 <br/>
 
