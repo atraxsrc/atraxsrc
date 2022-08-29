@@ -23,7 +23,7 @@
 
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,rust,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,go,rust,js,html)](https://skillicons.dev)
 
 <br/>
 
