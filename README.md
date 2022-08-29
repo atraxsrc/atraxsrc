@@ -29,6 +29,8 @@
 
 ### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 
+[![My Skills](https://skillicons.dev/icons?i=linux,github,azure,androidstudio,docker,vim,gtk,kubernetes,md,powershell)](https://skillicons.dev)
+
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
 ![](https://github.com/atraxsrc/bots/blob/main/arch.png)
