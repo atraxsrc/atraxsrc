@@ -23,28 +23,18 @@
 
 ### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
 
+<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=python,bash,go,rust,js,html)](https://skillicons.dev)
 
 <br/>
 
 ### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
 
+<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,github,azure,androidstudio,docker,vim,gtk,kubernetes,md,powershell)](https://skillicons.dev)
 
-![](https://github.com/atraxsrc/bots/blob/main/icons8-kali-linux-80.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-debian-80.png)
-![](https://github.com/atraxsrc/bots/blob/main/arch.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-github-80.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-old-vmware-logo-80.png)
-![](https://img.icons8.com/color/64/android-studio--v3.png)
-![](https://github.com/atraxsrc/bots/blob/main/Ghidra_Logo1.png)
-![](https://cdn.icon-icons.com/icons2/2415/PNG/64/docker_plain_logo_icon_146554.png)
-![](https://img.icons8.com/plasticine/64/bash.png)
-![](https://img.icons8.com/color/64/powershell.png)
-![](https://github.com/atraxsrc/bots/blob/main/sublime_text_alt_macos_bigsur_icon_189684.png)
-![](https://github.com/atraxsrc/bots/blob/main/kali-metasploit-framework.png)
-![](https://github.com/atraxsrc/bots/blob/main/icons8-azure-70.png)
-![](https://github.com/atraxsrc/bots/blob/main/burp_suite_macos_bigsur_icon_190319.png)
 
 <br/>
 
