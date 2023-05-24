@@ -9,7 +9,7 @@
 <h3 align="center">Not an Hacker or Programmer</h3>
 
 
-### 🌱 &nbsp;&nbsp;&nbsp; I'm passionate in the areas of **Cybersecurity**, **DevSecOps**, and **Computer Science**
+### 🌱 &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3**, and **Pizza**
 
 
 <br/>
