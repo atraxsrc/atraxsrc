@@ -9,7 +9,7 @@
 <h3 align="center">Not a Programmer</h3>
 
 
-### 🌱 &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3**, and **Pizza**
+### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3**, and **🍕**
 
 
 <br/>
@@ -21,7 +21,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestang98&hide=contribs&show_icons=true) -->
 
-### 🗣️ &nbsp;&nbsp;&nbsp; Languages In Progress
+### 💻 &nbsp;&nbsp;&nbsp; Languages
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-### ⚒️ &nbsp;&nbsp;&nbsp; Tools In Use
+### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
 
 <br/>
 
