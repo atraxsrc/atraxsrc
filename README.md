@@ -9,7 +9,7 @@
 <h3 align="center">Not a Programmer</h3>
 
 
-### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3**, and **🍕**
+### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3** + **🍕**
 
 
 <br/>
