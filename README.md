@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi <img src="https://media4.giphy.com/media/JIoVDbuFoZGKjIkYga/giphy.gif?cid=ecf05e47pk5vmqz2ei9tkg762zvj568laub7e2ps5g04qc5u&rid=giphy.gif&ct=s"
     width="30px">, I'm Atrax</h1>
-<h3 align="center">Not an Hacker or Programmer</h3>
+<h3 align="center">Not a Programmer</h3>
 
 
 ### 🌱 &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3**, and **Pizza**
@@ -25,7 +25,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,python,bash,go,rust,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,python,rust)](https://skillicons.dev)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,androidstudio,docker,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)
 
 
 <br/>
