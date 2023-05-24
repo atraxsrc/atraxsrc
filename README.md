@@ -25,7 +25,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,go,rust,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,python,bash,go,rust,js,html)](https://skillicons.dev)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,github,azure,androidstudio,docker,vim,gtk,kubernetes,md,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,androidstudio,docker,neovim)](https://skillicons.dev)
 
 
 <br/>
