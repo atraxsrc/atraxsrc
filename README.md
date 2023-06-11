@@ -25,7 +25,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,python,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,solidity,rust,lua,css,bash)](https://skillicons.dev)
 
 <br/>
 
