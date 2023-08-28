@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi <img src="https://media4.giphy.com/media/JIoVDbuFoZGKjIkYga/giphy.gif?cid=ecf05e47pk5vmqz2ei9tkg762zvj568laub7e2ps5g04qc5u&rid=giphy.gif&ct=s"
+<h1 align="center">Hi <img src="https://media.giphy.com/media/1iMOM1JGMBdPtc9XVE/giphy.gif"
     width="30px">, I'm Atrax</h1>
 
 
