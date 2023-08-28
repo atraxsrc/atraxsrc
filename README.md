@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi <img src="https://media4.giphy.com/media/JIoVDbuFoZGKjIkYga/giphy.gif?cid=ecf05e47pk5vmqz2ei9tkg762zvj568laub7e2ps5g04qc5u&rid=giphy.gif&ct=s"
     width="30px">, I'm Atrax</h1>
-<h3 align="center">Not a Programmer</h3>
 
 
 ### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3** and 🍕
