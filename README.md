@@ -20,7 +20,7 @@
 
 ### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
 
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,docker,kali,burpsuite,metasploit,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,docker,kali,git&theme=dark)](https://skillicons.dev)
 
 <br/>
 
