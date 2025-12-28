@@ -27,52 +27,9 @@
 ### 📊 &nbsp;&nbsp;&nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=tokyonight&bg_color=1a1b27&hide_border=true&layout=compact" alt="Top Languages" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atraxsrc&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/atraxsrc?tab=followers"><img src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" /></a>
   <a href="https://github.com/atraxsrc"><img src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" /></a>
   <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile+Views&color=brightgreen" alt="Profile views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Thanks for stopping by! ⭐ my repos if you like what you see</i>
-</div>
-
-### 📊 &nbsp;&nbsp;&nbsp; GitHub Stats
-
-<div align="center">
-  <!-- Top Languages - using a working alternative host -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=tokyonight&bg_color=1a1b27&hide_border=true&layout=compact&hide=html,css" alt="Top Languages" height="180" />
-  
-  <!-- General Stats - same alternative (fallback if main is down) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Streak Stats - use this popular working fork -->
-  <img src="https://streak-stats.demolab.com?user=atraxsrc&theme=tokyonight&background=1a1b27&border=none&dates=EBEBEB" alt="GitHub Streak" />
-</div>
-
-### 📊 &nbsp;&nbsp;&nbsp; GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=tokyonight&bg_color=1a1b27&hide_border=true&layout=compact" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atraxsrc&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&include_all_commits=true" />
 </div>
 
 <br/>
