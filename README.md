@@ -67,3 +67,16 @@
   <!-- Streak Stats - use this popular working fork -->
   <img src="https://streak-stats.demolab.com?user=atraxsrc&theme=tokyonight&background=1a1b27&border=none&dates=EBEBEB" alt="GitHub Streak" />
 </div>
+
+### 📊 &nbsp;&nbsp;&nbsp; GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=tokyonight&bg_color=1a1b27&hide_border=true&layout=compact" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atraxsrc&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&include_all_commits=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=atraxsrc&theme=tokyonight&background=1A1B27&border=none" />
+</div>
