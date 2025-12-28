@@ -1,54 +1,65 @@
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Atrax.....;Nice+to+see+you....!&size=25">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Atrax!;Cybersecurity+%7C+Web3+Enthusiast;Nice+to+meet+you!" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Hacker GIF" />
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+I'm **Atrax**, passionate about **Cybersecurity**, **Web3/Blockchain**, and building secure tools.  
+I love OSINT, smart contracts, Linux tweaking, and occasionally some 🍕.
+
+- 🔭 Currently exploring advanced recon techniques and Solidity security
+- 🌱 Learning more about Rust for secure systems
+- ⚡ Fun fact: I theme everything in Tokyo Night 🌃
+
+<br/>
+
+### 💻 Languages & Technologies
+[![Skills](https://skillicons.dev/icons?i=python,solidity,rust,lua,css,bash,html,js&perline=8&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+### ⛓️ Tools & Environment
+[![Tools](https://skillicons.dev/icons?i=linux,neovim,git,docker,kali,burpsuite,metasploit&perline=7&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=tokyonight&bg_color=1a1b27&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atraxsrc&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/atraxsrc?tab=followers">
+    <img src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="Followers" />
   </a>
-</h1>
+  
+  <a href="https://github.com/atraxsrc">
+    <img src="https://img.shields.io/github/stars/atraxsrc?label=Total%20Stars&style=social" alt="Stars" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile%20Views&color=brightgreen" alt="Profile views" />
 
-<h1 align="center"><img src="https://media.giphy.com/media/1iMOM1JGMBdPtc9XVE/giphy.gif" width="200px">
-</h1>
-
-### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3** and 🍕
-
-
-<br/>
-
-<!-- ## GitHub stats :chart_with_upwards_trend: -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestang98&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestang98&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestang98&hide=contribs&show_icons=true) -->
-
-### 💻 &nbsp;&nbsp;&nbsp; Languages
+</div>
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,solidity,rust,lua,css,bash)](https://skillicons.dev)
-
-<br/>
-
-### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim)](https://skillicons.dev)
-
-
-<br/>
-
-### 📊 &nbsp;&nbsp;&nbsp; Github Stats <img align="right" src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/atraxsrc?tab=followers"><img align="right" src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/atraxsrc">  <img align="right" src="https://komarev.com/ghpvc/?username=atraxsrc"></a>
-
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&theme=react&bg_color=151515" />
-</p>
-
-<a href="https://github.com/atraxsrc"><img alt="atraxsrc's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atraxsrc&theme=black-ice"
-    alt="atraxsrc" /></p>
-
-<br />
-
-
+<div align="center">
+  <i>Thanks for visiting! Feel free to star my repos if you find them useful ⭐</i>
+</div>
