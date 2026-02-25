@@ -1,3 +1,7 @@
+
+![backroom0](https://github.com/user-attachments/assets/88c9ab80-dc8b-47fd-9b35-4ac6307ea734)
+
+
 <h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=false&vCenter=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Atrax.....;Cybersecurity+%26+Web3;Nice+to+see+you....!" alt="Typing SVG" />
