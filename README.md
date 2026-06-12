@@ -1,41 +1,32 @@
-![image](https://github.com/user-attachments/assets/17263ae0-0f4c-45c2-84c4-d055b871313a)
----
 <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=false&vCenter=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Atrax.....;Cybersecurity+%26+Web3;Nice+to+see+you....!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3500&pause=1000&color=7AA2F7&center=false&vCenter=true&width=600&lines=0xdev1+%2F%2F+defensive+security;Detection+engineering+%C2%B7+threat+analysis;Attackers+improve.+Defenders+should+too." alt="0xdev1" />
 </h1>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/1iMOM1JGMBdPtc9XVE/giphy.gif" width="200" alt="Hacking GIF" />
-</h1>
+### Independent defensive security practitioner. Founder of **[UMBRASEC](https://umbrasec.dev)**.
 
-### 🍽️ &nbsp;&nbsp;&nbsp; **Cybersecurity**, **Web3** and 🍕
+I build detection content and small, useful tools for defenders, and run a one-person
+**virtual CISO** practice helping small and mid-sized businesses get to a defensible
+baseline. Everything I publish is defensive in scope and tied to a primary source - no
+working exploits, no invented track record.
 
-<br/>
+- 🛡️ &nbsp; **Detection engineering** — runnable Sigma rules & KQL, mapped to MITRE ATT&CK
+- 🔭 &nbsp; **Threat analysis** — technical breakdowns of real techniques and KEV-listed CVEs
+- 🧰 &nbsp; **Open tooling** — a zero-dependency CISA KEV monitor, a blue-team reference, a daily KEV feed
+- 📋 &nbsp; **vCISO for SMBs** — GRC-first security strategy, framework-grounded (Essential Eight · ISO 27001 · NIST CSF 2.0)
 
-### 💻 &nbsp;&nbsp;&nbsp; Languages
+### 🔗 &nbsp; Find the work
 
-[![My Skills](https://skillicons.dev/icons?i=python,solidity,rust,lua,css,bash,html,js&theme=dark)](https://skillicons.dev)
+[![Site](https://img.shields.io/badge/umbrasec.dev-1A1B26?style=for-the-badge&logo=cloudflare&logoColor=7AA2F7)](https://umbrasec.dev)
+[![Research](https://img.shields.io/badge/Research-1A1B26?style=for-the-badge&logo=ghost&logoColor=BB9AF7)](https://umbrasec.dev/research/)
+[![Email](https://img.shields.io/badge/0xdev1@umbrasec.dev-1A1B26?style=for-the-badge&logo=protonmail&logoColor=9ECE6A)](mailto:0xdev1@umbrasec.dev)
 
-<br/>
+### 💻 &nbsp; Day to day
 
-### ⛓️ &nbsp;&nbsp;&nbsp; Tools In Use
-
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,docker,&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-### 📊 &nbsp;&nbsp;&nbsp; GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/atraxsrc?tab=followers"><img src="https://img.shields.io/github/followers/atraxsrc?label=Followers&style=social" /></a>
-  <a href="https://github.com/atraxsrc"><img src="https://img.shields.io/github/stars/atraxsrc?label=Stars&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile+Views&color=brightgreen" alt="Profile views" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,linux,docker,git,neovim&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=atraxsrc&theme=tokyonight&background=1A1B27&border=none" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=atraxsrc&theme=tokyonight&background=1A1B27&border=none&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile+Views&color=7aa2f7&style=flat" alt="Profile views" />
 </div>
