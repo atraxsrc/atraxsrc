@@ -46,3 +46,4 @@ const dev = {
     ships: "Sigma & KQL detections, defensive tooling, sourced research",
     rule: "Defensive only. Every claim tied to a primary source.",
 };
+```
