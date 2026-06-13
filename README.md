@@ -49,9 +49,17 @@
 ## tech_stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,neovim,html,css,js&theme=dark&perline=10" alt="Tech Stack" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-1A1B26?style=for-the-badge&logo=gnubash&logoColor=9ECE6A" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux&logoColor=E0AF68" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F7768E" alt="Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neovim-1A1B26?style=for-the-badge&logo=neovim&logoColor=9ECE6A" alt="Neovim" />
+  <img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=E0AF68" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=7AA2F7" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=E0AF68" alt="JavaScript" />
 </p>
 
 <br>
