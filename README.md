@@ -38,7 +38,7 @@
 - **alias**: `0xdev1`
 - **role**: Independent defensive security practitioner
 - **brand**: [UMBRASEC](https://umbrasec.dev)
-- **based**: Australia 🇦🇺, working globally
+- **based**: Globally
 - **focus**: Detection engineering · Threat analysis · vCISO for SMBs
 - **frameworks**: MITRE ATT&CK, Essential Eight, ISO 27001, NIST CSF 2.0
 - **ships**: Sigma & KQL detections, defensive tooling, sourced research
@@ -78,6 +78,14 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=atraxsrc&show_icons=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=2a2c38&ring_color=7aa2f7&hide_border=false" alt="Stats" />&nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atraxsrc&langs_count=8&layout=compact&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=2a2c38&hide_border=false" alt="Top Languages" />
+</p>
+
+<br>
+
+## contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=atraxsrc&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <br>
