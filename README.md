@@ -48,18 +48,22 @@
 
 ## tech_stack
 
+<!-- the craft -->
+<p align="center">
+  <img src="https://img.shields.io/badge/●-Sigma-1A1B26?style=for-the-badge&labelColor=7AA2F7" alt="Sigma" />
+  <img src="https://img.shields.io/badge/●-KQL-1A1B26?style=for-the-badge&labelColor=7DCFFF" alt="KQL" />
+  <img src="https://img.shields.io/badge/●-MITRE_ATT%26CK-1A1B26?style=for-the-badge&labelColor=F7768E" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/●-Essential_Eight-1A1B26?style=for-the-badge&labelColor=9ECE6A" alt="Essential Eight" />
+  <img src="https://img.shields.io/badge/●-NIST_CSF-1A1B26?style=for-the-badge&labelColor=BB9AF7" alt="NIST CSF 2.0" />
+</p>
+
+<!-- the toolbelt -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-1A1B26?style=for-the-badge&logo=gnubash&logoColor=9ECE6A" alt="Bash" />
   <img src="https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux&logoColor=E0AF68" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-1A1B26?style=for-the-badge&logo=gnubash&logoColor=9ECE6A" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F7768E" alt="Git" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Neovim-1A1B26?style=for-the-badge&logo=neovim&logoColor=9ECE6A" alt="Neovim" />
-  <img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=E0AF68" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=7AA2F7" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=E0AF68" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
 </p>
 
 <br>
