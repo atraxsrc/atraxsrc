@@ -1,7 +1,7 @@
 <!-- Header: atraxsrc 2026 logo lockup -->
 <p align="center">
   <a href="https://github.com/atraxsrc">
-    <img alt="atraxsrc 2026" src="https://github.com/atraxsrc/assets/profile-logo.svg" width="100%">
+    <img alt="atraxsrc 2026" src="https://github.com/atraxsrc/assets/profile-logo.svg?v=1" width="100%">
   </a>
 </p>
 
