@@ -1,7 +1,7 @@
-<!-- Header: reuses the live atraxsrc OG card -->
+<!-- Header: atraxsrc 2026 logo lockup -->
 <p align="center">
   <a href="https://github.com/atraxsrc">
-    <img alt="atraxsrc — Attackers improve. Defenders should too." src="https://github.com/atraxsrc/assets/og.png" width="100%">
+    <img alt="atraxsrc 2026" src="https://github.com/atraxsrc/assets/profile-logo.svg" width="100%">
   </a>
 </p>
 
