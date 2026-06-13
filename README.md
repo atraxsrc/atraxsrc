@@ -1,7 +1,7 @@
 <!-- Header: UMBRASEC 2026 logo lockup -->
 <p align="center">
   <a href="https://umbrasec.dev">
-    <img alt="UMBRASEC 2026" src="https://umbrasec.dev/assets/profile-logo.svg" width="100%">
+    <img alt="UMBRASEC 2026" src="https://umbrasec.dev/assets/profile-logo.svg?v=1" width="100%">
   </a>
 </p>
 
