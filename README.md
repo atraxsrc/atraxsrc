@@ -46,38 +46,37 @@ Independent defensive security practitioner. I build detections, dig into how re
 
 <!-- the craft -->
 <p align="center">
-  <img src="https://img.shields.io/badge/●-Sigma-1A1B26?style=for-the-badge&labelColor=7AA2F7" alt="Sigma" />
-  <img src="https://img.shields.io/badge/●-KQL-1A1B26?style=for-the-badge&labelCol
-  <img src="https://img.shields.io/badge/●-MITRE_ATT%26CK-1A1B26?style=for-the-badge&labelColor=F7768E" alt="MITRE ATT&CK" />
-  <img src="https://img.shields.io/badge/●-Essential_Eight-1A1B26?style=for-the-bassential Eight" />
-  <img src="https://img.shields.io/badge/●-NIST_CSF-1A1B26?style=for-the-badge&labelColor=BB9AF7" alt="NIST CSF 2.0" />
+  <img src="https://img.shields.io/badge/●-Sigma-1A1B26?style=for-the-badge&labelC
+  <img src="https://img.shields.io/badge/●-KQL-1A1B26?style=for-the-badge&labelColor=7DCFFF" alt="KQL" />
+  <img src="https://img.shields.io/badge/●-MITRE_ATT%26CK-1A1B26?style=for-the-badTRE ATT&CK" />
+  <img src="https://img.shields.io/badge/●-Essential_Eight-1A1B26?style=for-the-badge&labelColor=9ECE6A" alt="Essential Eight" />
+  <img src="https://img.shields.io/badge/●-NIST_CSF-1A1B26?style=for-the-badge&lab 2.0" />
 </p>
 
 <!-- the toolbelt -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=pyython" />
-  <img src="https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux&logoColor=E0AF68" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-1A1B26?style=for-the-badge&logo=gnubsh" />
-  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F7768E" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=doocker" />
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Bash-1A1B26?style=for-the-badge&logo=gnubash&logoColor=9ECE6A" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&l
+  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
 </p>
 
 <br>
 
 ## the_work
 
-Everything I publish - detections, tooling, and sourced research - lives under the UMBRASEC org and at [umbrasec.dev](https://umbrasec.dev).
+Everything I publish - detections, tooling, and sourced research - lives under thec.dev](https://umbrasec.dev).
 
 <p align="center">
   <a href="https://github.com/umbrasecdev">
-    <img src="https://img.shields.io/badge/→_All_repos-github.com/umbrasecdev-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="UMBRASEC org" />
+    <img src="https://img.shields.io/badge/→_All_repos-github.com/umbrasecdev-1A1Bithub&logoColor=7AA2F7" alt="UMBRASEC org" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/umbrasecdev/umbrasec">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umbrasecdev&repo=umbrasec&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=2a2c38&hide_b
-order=false" alt="umbrasec" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umbrasecdev6&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=2a2c38&hide_border=false" alt="umbrasec" />
   </a>
 </p>
 
@@ -85,5 +84,5 @@ order=false" alt="umbrasec" />
 
 <!-- Footer tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&s0000&color=565F89&center=true&vCenter=true&width=500&height=30&lines=Defensive+in+scope.+Sourced.+Published+openly." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=100000&color=565F89&center=true&vCenter=true&width=500&height=30&lines=Defensive+in+scope.+Sourced.+Published+openly." alt="Footer" />
 </p>
