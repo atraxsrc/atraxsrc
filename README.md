@@ -6,15 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile%20Views&color=bb9af7&style=flat" alt="Profile Views" />
 </p>
 <br>
-
-## whoami
-
 crypto and 🍕
-
-- **doing**: crypto/OSINT tooling · Pop!_OS/COSMIC theming · CTF writeups
-- **fuel**: pizza and stubbornness
-- **vibe**: obscure corners of the internet, old-web energy
-
 <br>
 
 ## tech_stack
@@ -26,19 +18,6 @@ crypto and 🍕
   <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=7DCFFF" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7AA2F7" alt="Docker" />
 </p>
-
-<br>
-
-## the_lab
-
-A loose pile of stuff, no particular order:
-
-- crypto & OSINT tools
-- Pop!_OS / COSMIC desktop themes
-- CTF writeups & notes
-
-Poke around the repos. Nothing here is trying to sell you anything.
-
 <br>
 
 <p align="center">
