@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=atraxsrc&label=Profile%20Views&color=bb9af7&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp1aHRieXFwdTNtYTJudndjeGlraGF3d212aGxhd2QzaWwwM3dicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2CTaBZiPHYQKEo/giphy.gif" alt="spider gif" width="320" />
+</p>
+
 <br>
 
 ## whoami
