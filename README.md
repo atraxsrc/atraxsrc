@@ -14,7 +14,7 @@
 
 ## whoami
 
-Hobbyist tinkerer poking at crypto rabbit holes, desktop theming, and CTFs. No brand, no pitch — just a pile of side projects and too much pizza. 🍕
+crypto and 🍕
 
 - **doing**: crypto/OSINT tooling · Pop!_OS/COSMIC theming · CTF writeups
 - **fuel**: pizza and stubbornness
