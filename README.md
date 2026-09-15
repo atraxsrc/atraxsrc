@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://readme-typing-svg.dolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=d20f39&center=true&vCenter=true&width=600&height=45&lines=root@cha0xlabS:~%23+whoami;exploiting+zero-days+in+the+matrix;privacy+is+not+a+crime;monero+maxi+%7C%7C+self+sovereign;ricing+arch+since+%272015" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=700&size=22&duration=2500&pause=800&color=ff0040&center=true&vCenter=true&width=650&height=50&lines=cha0xlabS;breaking+firewalls+%7C+fixing+privacy;no+KYC%2C+no+problem;i3wm+%2B+polybar+%2B+paranoia;grep+the+planet" alt="Typing SVG" />
 </p>
