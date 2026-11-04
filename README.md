@@ -5,3 +5,7 @@
 <p align="center">
   <img src="assets/readme.gif" width="400" alt="glitch loop over a page of spider references" />
 </p>
+
+<p align="center">
+  <sub>contributed to <a href="https://github.com/monero-project/monero-gui/pull/4670">monero-gui #4670</a> - system / light / dark theme selector, merged upstream</sub>
+</p>
