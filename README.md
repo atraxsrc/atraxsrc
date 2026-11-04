@@ -5,5 +5,3 @@
 <p align="center">
   <img src="assets/readme.gif" width="400" alt="glitch loop over a page of spider references" />
 </p>
-
-<p align="center"><a href="https://atraxsrc.github.io/cosmic-rices/">cosmic rices</a></p>
