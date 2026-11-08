@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <sub>contributed to <a href="https://github.com/monero-project/monero-gui/pull/4670">monero-gui #4670</a> - system / light / dark theme selector, merged upstream</sub>
+  <sub>contributed to <a href="https://github.com/monero-project/monero-gui/pull/4670">monero-gui #4670</a>
 </p>
